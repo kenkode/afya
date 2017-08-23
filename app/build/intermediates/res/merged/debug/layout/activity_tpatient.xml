@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/btn_login"
+    android:backgroundTint="@color/btn_login"
+    tools:context=".activity.registrarpage">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1011px"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+        <Button
+            android:id="@+id/btnHit"
+            android:background="@drawable/style"
+            android:textColor="@color/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Refresh"
+            android:layout_alignParentTop="true"
+            android:shadowColor="@color/input_register_bg"
+
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <TextView
+            android:id="@+id/jsonres"
+            android:layout_width="0dp"
+            android:visibility="visible"
+            android:layout_height="0dp"
+
+            android:layout_marginTop="16dp"
+
+            android:textColor="@color/white"
+            android:layout_below="@+id/navigate"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Spinner
+            android:id="@+id/spinneracces"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:entries="@array/Oppinions97"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/btnHit" />
+
+
+        <Button
+            android:id="@+id/navigate"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btnHit"
+            android:background="@drawable/stylebut"
+            android:shadowColor="@color/input_register_bg"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="2"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp"
+            android:text="Navigate"
+            android:textColor="@color/white"
+            android:textSize="9dp" />
+
+
+        <TextView
+            android:id="@+id/tex"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/jsonres"
+            android:layout_toEndOf="@+id/jsonres"
+            android:layout_toRightOf="@+id/jsonres"
+            android:background="@drawable/style"
+
+            android:fontFamily="monospace"
+            android:lineSpacingExtra="8sp"
+            android:padding="10dp"
+            android:text=" "
+
+
+            android:textColor="@color/input_register_bg"
+            />
+
+    </RelativeLayout>
+</ScrollView>

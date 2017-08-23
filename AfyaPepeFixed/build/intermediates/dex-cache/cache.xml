@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bill Israel\.android\build-cache\b1ecd72db7a30dee789fa6de57095570dd1dfb35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Bill Israel\Desktop\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_4daf606f12247aba3e4b1e6f1faf072829496e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bill Israel\.android\build-cache\e75a779c059548ca8f1c4cf75ed0ab677c93f775\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Bill Israel\Desktop\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_3aee567a1a4f665997a992d45656e815ee7c89a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bill Israel\.android\build-cache\5ffb1bd749cbbf726148db187135e3614669ad71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Bill Israel\Desktop\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_9236004881f4bb23abcf3ffc68b7ea156b46c9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bill Israel\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="C:\Users\Bill Israel\Desktop\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5_771a4c8e3bada1579f39e9ccc77b417da3323167.jar" />
+    </item>
+
+</items>

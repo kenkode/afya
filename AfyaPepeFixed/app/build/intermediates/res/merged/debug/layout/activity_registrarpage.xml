@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="afyapepe.mobile.activity.registrarpage"
+    android:background="@color/btn_login"
+    android:backgroundTint="@color/btn_login">
+
+    <TextView
+        android:id="@+id/tvJsonitem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TAP TO INFLATE DATA"
+        android:textColor="@color/white"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="70dp"
+        android:layout_below="@+id/btnHit"
+        android:layout_centerHorizontal="true" />
+
+
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13dp"
+        android:textColor="@color/white"/>
+
+
+
+
+
+    <Button
+        android:id="@+id/btnHit"
+        android:background="@color/white"
+        android:textColor="@color/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Refresh"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/tvJsonitem"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/white"
+        android:text="LOG OUT!"
+        android:textColor="@color/btn_login"
+        />
+
+</RelativeLayout>

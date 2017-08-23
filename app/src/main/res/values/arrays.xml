@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+        <string-array name="Oppinions97">
+            <item>@string/Polling1</item>
+            <item>@string/Polling2</item>
+            <item>@string/Polling3</item>
+
+
+
+        </string-array>
+
+
+
+    <string-array name="todspat">
+        <item>@string/Polling4</item>
+        <item>@string/Polling5</item>
+        <item>@string/Polling6</item>
+
+
+
+    </string-array>
+
+    <string-array name="consfee">
+        <item>@string/Polling7</item>
+        <item>@string/Polling8</item>
+        <item>@string/Polling9</item>
+
+
+
+    </string-array>
+
+
+
+
+
+</resources>

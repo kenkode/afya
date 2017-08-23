@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="afyapepe.mobile.fragment.PatientListFragment">
+
+
+    <SearchView
+        android:id="@+id/searchPatients"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="Search patients" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/patients"
+        android:layout_marginTop="50dp" />
+
+
+</FrameLayout>

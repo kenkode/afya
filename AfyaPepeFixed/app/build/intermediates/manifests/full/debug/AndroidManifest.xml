@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="afyapepe.mobile"
+    platformBuildVersionCode="23"
+    platformBuildVersionName="6.0-2704002"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="afyapepe.mobile.app.AppController"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/afyapepe"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="afyapepe.mobile.activity.LoginActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|adjustNothing" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="afyapepe.mobile.activity.RegisterActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|adjustNothing" />
+        <activity
+            android:name="afyapepe.mobile.activity.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="afyapepe.mobile.activity.Registrar"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="afyapepe.mobile.activity.Admin"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="afyapepe.mobile.activity.PharmMan"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="afyapepe.mobile.activity.PharmSto"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.FacilityAdm"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.registrarpage"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.Registafya"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_registafya"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="afyapepe.mobile.activity.Registactiv"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.Doctorn"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.Nurse"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.Manufacturer"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.Patient"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.Private"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.PharmacyStoKep"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.PharmacyMan"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="afyapepe.mobile.activity.RegistScreen"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

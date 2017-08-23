@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nav">Navigate</string>
+
+    <string name="app_name">Afya Pepe</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="Polling1"><b color='@color/white'>All Patients</b></string>
+    <string name="Polling2"><b color='@color/white'>Todays Patients</b></string>
+    <string name="Polling3"><b color='@color/white'>Consultation Fee</b></string>
+
+    <string name="Polling4"><b color='@color/white'>Todays Patients</b></string>
+    <string name="Polling5"><b color='@color/white'>All Patients</b></string>
+    <string name="Polling6"><b color='@color/white'>Consultation Fee</b></string>
+
+
+    <string name="Polling7"><b color='@color/white'>Consultation Fee</b></string>
+    <string name="Polling8"><b color='@color/white'>All Patients</b></string>
+    <string name="Polling9"><b color='@color/white'>Todays Patients</b></string>
+
+
+    <string name="action_refresh">LOG OUT</string>
+    <string name="title_activity_registafya">registafya</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_doctor">Doctor</string>
+    <string name="gender">Gender</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_today_patients">Today`s Patients</string>
+    <string name="nav_patients">Patients</string>
+    <string name="nav_waiting_list">Waiting List</string>
+    <string name="nav_appointments">Appointments</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Today`s Patients</item>
+        <item>Patients</item>
+        <item>Waiting List</item>
+        <item>Appointments</item>
+        <item>Profile</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_patient_details">PatientDetailsActivity</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">PREV</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>

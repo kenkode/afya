@@ -1,0 +1,7 @@
+#Thu Aug 03 16:30:50 EAT 2017
+base.0=C\:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5ff62e4f59f2fcf2179728853ddafb77db948218
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e21af2af94b0c2abcfc6122cb004cdc85e9799aa\\classes.dex
+base.1=C\:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e21af2af94b0c2abcfc6122cb004cdc85e9799aa
+file.0=C\:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5ff62e4f59f2fcf2179728853ddafb77db948218\\classes.dex

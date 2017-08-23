@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lixnet\.android\build-cache\79fd775f9784634499ca58e04eb7baca18627f6e\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_36662310dcf4985bc132cd39906ce30935b317c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8cf51881cd9c6f28a637a12093ae03dca3b451dc">
+        <dex dex="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5ff62e4f59f2fcf2179728853ddafb77db948218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lixnet\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-android-4.3.5_7b3fc4eb91ba3f9f1ab6b421ba7ae9aa37a7b73e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lixnet\.android\build-cache\9d73f515f1d9f3bb84dfc3f56ebec346de482be4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_497e4024290b549ce188f6623f5d40ccee88c0de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e21af2af94b0c2abcfc6122cb004cdc85e9799aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lixnet\.android\build-cache\22392d8fbb5520a7ad9d583a46d56b4379f1e73b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Lixnet\Desktop\afya\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1662cd3beed48831dba9b5dc7c1f3f5dd9ca691c\classes.dex" />
+    </item>
+
+</items>

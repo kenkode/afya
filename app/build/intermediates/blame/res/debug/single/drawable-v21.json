@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Lixnet\\.android\\build-cache\\584b16b844ab359ecbe1271379e570fae70f000e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Lixnet\\.android\\build-cache\\584b16b844ab359ecbe1271379e570fae70f000e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Lixnet\\.android\\build-cache\\584b16b844ab359ecbe1271379e570fae70f000e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Lixnet\\.android\\build-cache\\584b16b844ab359ecbe1271379e570fae70f000e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Lixnet\\.android\\build-cache\\3d2e765457aca64d7237a777e4c2323ef8a69942\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]

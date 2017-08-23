@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\layout-w600dp-v13\\activity_tpatient.xml",
+        "source": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\src\\main\\res\\layout-w600dp\\activity_tpatient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\layout-w600dp-v13\\activity_consulfee.xml",
+        "source": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\src\\main\\res\\layout-w600dp\\activity_consulfee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\layout-w600dp-v13\\activity_registrarpage.xml",
+        "source": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\src\\main\\res\\layout-w600dp\\activity_registrarpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\build\\intermediates\\res\\merged\\debug\\layout-w600dp-v13\\activity_apatient.xml",
+        "source": "C:\\Users\\Lixnet\\Desktop\\afya\\app\\src\\main\\res\\layout-w600dp\\activity_apatient.xml"
+    }
+]

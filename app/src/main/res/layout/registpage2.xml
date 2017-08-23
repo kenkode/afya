@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/btn_login"
+    android:backgroundTint="@color/btn_login">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1011px">
+        <Button
+            android:id="@+id/btnHit"
+            android:background="@color/white"
+            android:textColor="@color/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Refresh"
+            android:layout_alignParentTop="true"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+
+
+
+
+
+        <Button
+            android:id="@+id/btnLogout"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@color/white"
+            android:text="LOG OUT!"
+
+            android:textColor="@color/btn_login"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/jsonres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/btnHit"
+
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="101dp"
+            android:text="TAP TO INFLATE DATA"
+            android:textColor="@color/white" />
+
+        <Spinner
+            android:id="@+id/spinneracces"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:entries="@array/Oppinions97"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/btnHit" />
+
+
+        <Button
+            android:id="@+id/navigate"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btnHit"
+            android:background="@color/bg_login2"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="2dp"
+            android:text="Navigate"
+            android:textColor="@color/white"
+            android:textSize="9dp" />
+    </RelativeLayout>
+</ScrollView>
